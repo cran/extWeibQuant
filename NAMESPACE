@@ -1,0 +1,4 @@
+export(cenWbMLE.T1, cenWbMLE.T2, 
+		emCenWbMix.T1, emCenWbMix.T2, quanWbMix, simWbMix,
+		bootstrapCMLE, bootstrapCenWbMix)
+useDynLib(extWeibQuant)
